@@ -1,0 +1,36 @@
+# Binaries
+*.exe
+*.o
+*.a
+*.so
+*.dll
+
+# Build directories
+/build
+/CMakeFiles
+/CMakeCache.txt
+/Makefile
+/CMakeLists.txt.user
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.sln
+*.pdb
+*.ipch
+*.obj
+*.idb
+*.log
+*.tlog
+*.lastbuildstate
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.vscode
+
+# Others
+.DS_Store
+*.tmp
+*.swp
